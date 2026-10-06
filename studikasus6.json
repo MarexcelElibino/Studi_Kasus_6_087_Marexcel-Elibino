@@ -1,0 +1,20 @@
+[
+    {
+        "nim": "22222222",
+        "nama": "Ucup",
+        "mata_kuliah": "Matematika Diskrit",
+        "nilai": 85
+    },
+    {
+        "nim": "33333333",
+        "nama": "Rahulllll",
+        "mata_kuliah": "Dasar Pemrograman",
+        "nilai": 78
+    },
+    {
+        "nim": "44444444",
+        "nama": "Excell",
+        "mata_kuliah": "Bahasa Inggris",
+        "nilai": 99
+    }
+]
